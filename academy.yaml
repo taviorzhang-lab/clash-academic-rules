@@ -1,0 +1,73 @@
+payload:
+  - '+.aps.org'
+  - '+.aip.org'
+  - '+.scitation.org'
+  - '+.iop.org'
+  - '+.iopscience.iop.org'
+
+  - '+.nature.com'
+  - '+.springer.com'
+  - '+.springerlink.com'
+  - '+.springernature.com'
+  - '+.springeropen.com'
+  - '+.optica.org'
+  - '+.elsevier.com'
+  - '+.sciencedirect.com'
+  - '+.sciencedirectassets.com'
+  - '+.cell.com'
+  - '+.thelancet.com'
+
+  - '+.wiley.com'
+  - '+.onlinelibrary.wiley.com'
+
+  - '+.tandfonline.com'
+  - '+.taylorandfrancis.com'
+
+  - '+.oup.com'
+  - '+.academic.oup.com'
+
+  - '+.cambridge.org'
+  - '+.cambridgecore.org'
+
+  - '+.ieee.org'
+  - '+.ieeexplore.ieee.org'
+
+  - '+.acm.org'
+  - '+.dl.acm.org'
+
+  - '+.mdpi.com'
+  - '+.frontiersin.org'
+  - '+.plos.org'
+  - '+.biomedcentral.com'
+
+  - '+.annualreviews.org'
+  - '+.pnas.org'
+  - '+.nas.org'
+
+  - '+.rsc.org'
+  - '+.royalsocietypublishing.org'
+  - '+.degruyter.com'
+  - '+.karger.com'
+  - '+.sagepub.com'
+
+  - '+.arxiv.org'
+  - '+.arxiv.com'
+  - '+.inspirehep.net'
+  - '+.cern.ch'
+
+  - '+.osti.gov'
+  - '+.osti.org'
+  - '+.lanl.gov'
+  - '+.llnl.gov'
+  - '+.sandia.gov'
+  - '+.pppl.gov'
+  - '+.iter.org'
+  - '+.iaea.org'
+
+  - '+.researchgate.net'
+  - '+.orcid.org'
+  - '+.crossref.org'
+  - '+.api.crossref.org'
+
+  - '+.doi.org'
+  - '+.dx.doi.org'
